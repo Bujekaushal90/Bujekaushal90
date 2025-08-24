@@ -9,7 +9,6 @@
 
 - 🤝 I’m looking for help with **Backend**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
